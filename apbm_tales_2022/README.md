@@ -1,13 +1,13 @@
 # APBM CKF
 
-The APBM (with its learning process) is implemented with Cubature Kalman filter.
+The Augmented Physics-Based Model (APBM) is implemented with the Cubature Kalman Filter (CKF) in this project.
 
-Code "tmlp" is the class definition for multilayer perceptrons (MLP).
+- The `tmlp` file contains the class definition for the Multilayer Perceptron (MLP) used in the learning process.
 
-The tracking result for Lorenz Attractor model:
+## Tracking Results
 
+### Lorenz Attractor Model
+![Lorenz Attractor Tracking Result](figs/lorenz_seed0.png)
 
-The tracking result for constant-turning-rate model:
-
-
-For more
+### Constant-Turning-Rate Model
+![Constant-Turning-Rate Tracking Result](path_to_turning_rate_image)
