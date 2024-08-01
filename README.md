@@ -12,7 +12,7 @@ This repository contains two projects:
      Imbiriba, T., Demirkaya, A., Duník, J., Straka, O., Erdoğmuş, D. and Closas, P., 
      2022, July. Hybrid neural network augmented physics-based models for nonlinear filtering. In 2022 25th International Conference on Information Fusion (FUSION) (pp. 1-6). IEEE.
      ```
-     [IEEE FUSION: https://ieeexplore.ieee.org/document/9841291](https://ieeexplore.ieee.org/document/9841291)
+     [IEEE FUSION 2022: https://ieeexplore.ieee.org/document/9841291](https://ieeexplore.ieee.org/document/9841291)
 
 2. **High-Order Markov Model Extension (Folder: `high_order_Markov_shuo_2023`)**
    - This folder extends the APBM to high-order Markov models, which some may refer to as non-Markov models.
