@@ -7,7 +7,7 @@ The Augmented Physics-Based Model (APBM) is implemented with the Cubature Kalman
 ## Tracking Results
 
 ### Lorenz Attractor Model
-![Lorenz Attractor Tracking Result](figs/lorenz_seed0.png)
+<img src="figs/lorenz_seed0.png" alt="Lorenz Attractor Tracking Result" width="600"/>
 
 ### Constant-Turning-Rate Model
-![Constant-Turning-Rate Tracking Result](path_to_turning_rate_image)
+<img src="figs/constant_velocity_seed9.png" alt="Constant-Turning-Rate Tracking Result" width="600"/>
