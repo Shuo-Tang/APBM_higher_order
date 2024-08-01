@@ -9,7 +9,8 @@ This repository contains two projects:
      - Constant-Turning-Rate Models
    - For more details, refer to the paper:  
      ```
-     Imbiriba, Tales, et al. "Hybrid Neural Network Augmented Physics-Based Models for Nonlinear Filtering." *2022 25th International Conference on Information Fusion (FUSION)*. IEEE, 2022.
+     Imbiriba, T., Demirkaya, A., Duník, J., Straka, O., Erdoğmuş, D. and Closas, P., 
+     2022, July. Hybrid neural network augmented physics-based models for nonlinear filtering. In 2022 25th International Conference on Information Fusion (FUSION) (pp. 1-6). IEEE.
      ```
      [IEEE FUSION: https://ieeexplore.ieee.org/document/9841291](https://ieeexplore.ieee.org/document/9841291)
 
