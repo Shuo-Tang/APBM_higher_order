@@ -13,7 +13,8 @@ This repository extends the standard Augmented Physics-Based Model (APBM) to a h
 ## High-Order Markov Models Demonstrated
 
 - **`apbm_ar_model.m`**: An Auto-Regressive (AR(3)) model.
+  The figure below shows the RMSE of the proposed approaches for a delay-feedback control problem.
+  <img src="figs/AR3_model.png" alt="RMSE Boxplots" width="600"/>
 - **`ctr_tracking_example_delay_feedback_augment.m`**: A state estimation problem with delayed-feedback control.
-
-The figure below shows the RMSE of the proposed approaches for a delay-feedback control problem.
-<img src="figs/rmse_boxplots.png" alt="RMSE Boxplots" width="600"/>
+  The figure below shows the RMSE of the proposed approaches for a delay-feedback control problem.
+  <img src="figs/rmse_boxplots.png" alt="RMSE Boxplots" width="600"/>
