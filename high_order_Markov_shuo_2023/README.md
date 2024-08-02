@@ -4,7 +4,7 @@ This repository extends the standard Augmented Physics-Based Model (APBM) to a h
 
 ### AG-APBM
 - Extends the input size of the neural network (NN) based on the Markov order.
-- Modifies the state dimension to include past few steps.
+- Modifies the state dimension to include the past few steps.
 
 ### AP-APBM
 - Extends the NN input size according to the Markov order while keeping the state dimension fixed.
@@ -13,8 +13,11 @@ This repository extends the standard Augmented Physics-Based Model (APBM) to a h
 ## High-Order Markov Models Demonstrated
 
 - **`apbm_ar_model.m`**: An Auto-Regressive (AR(3)) model.
-  The figure below shows the RMSE of the proposed approaches for a delay-feedback control problem.
+
+  The figure below shows the RMSE of the proposed approaches for the AR(3) model.
   <img src="figs/AR3_model.png" alt="RMSE Boxplots" width="600"/>
+  
 - **`ctr_tracking_example_delay_feedback_augment.m`**: A state estimation problem with delayed-feedback control.
-  The figure below shows the RMSE of the proposed approaches for a delay-feedback control problem.
+
+  The figure below shows the RMSE of the proposed approaches for the delay-feedback control problem.
   <img src="figs/rmse_boxplots.png" alt="RMSE Boxplots" width="600"/>
